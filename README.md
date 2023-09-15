@@ -2,6 +2,9 @@
 
 Explore Cars is a Next.js application that serves as a playground for practicing and improving various web development skills and best practices.
 
+![Explore Cars App](https://res.cloudinary.com/getoutbcn/image/upload/v1694796412/portfolio/projects/explore_cars_cfsgq6.png)
+
+
 ## Features
 
 - **Semantic HTML**: The app utilizes semantic HTML tags for better accessibility and SEO.
